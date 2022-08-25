@@ -76,7 +76,7 @@ Within the course, students will recall the substance that is necessary for the 
 
 Courses | Duration | Effort | Prerequisites |
 :-- | :--: | :--: | :--: |
-[BI-PKM]([bi-pkm-textbook.pdf]) | ? weeks | ? hours/week | none |
+[BI-PKM](https://github.com/mikezigberman/fit-software-engineering/files/9424569/bi-pkm-textbook.pdf) | ? weeks | ? hours/week | none |
 
 # Code of conduct
 
