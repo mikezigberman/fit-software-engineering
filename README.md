@@ -95,12 +95,12 @@ This version of the study plan is intended for students who have been enrolled f
 
 Courses | Duration | Effort | Prerequisites |
 :-- | :--: | :--: | :--: | 
-[Programming and Algorithmics 1]() | ? weeks | ? hours/week | none |
-[Discrete Mathematics and Logic]() | ? weeks | ? hours/week | [BI-PKM](https://github.com/mikezigberman/fit-software-engineering/files/9424569/bi-pkm-textbook.pdf)|
-[Linear Algebra 1]() | ? weeks | ? hours/week | [BI-PKM](https://github.com/mikezigberman/fit-software-engineering/files/9424569/bi-pkm-textbook.pdf) |
-[Unix-like Operating Systems]() | ? weeks | ? hours/week | BI-ULI |
-[Technological Fundamentals of Computers]() | ? weeks | ? hours/week | [BI-PKM](https://github.com/mikezigberman/fit-software-engineering/files/9424569/bi-pkm-textbook.pdf) & Physics |
-[SW Development Technologies]() | ? weeks | ? hours/week | none |
+[Programming and Algorithmics 1](https://abrasive-horn-91a.notion.site/Programming-and-Algorithmics-1-Programov-n-a-algoritmizace-1--aaf0d5731be649b4b8c6ea2d5496364f) | ? weeks | ? hours/week | none |
+[Discrete Mathematics and Logic](https://abrasive-horn-91a.notion.site/Discrete-Mathematics-and-Logic-Diskr-tn-matematika-a-logika-91c2f44feaf24c54af43b9ec08d26713) | ? weeks | ? hours/week | [BI-PKM](https://github.com/mikezigberman/fit-software-engineering/files/9424569/bi-pkm-textbook.pdf)|
+[Linear Algebra 1](https://abrasive-horn-91a.notion.site/Linear-Algebra-1-Line-rn-algebra-1-1-57978253feb84907a751a973f810cbfb) | ? weeks | ? hours/week | [BI-PKM](https://github.com/mikezigberman/fit-software-engineering/files/9424569/bi-pkm-textbook.pdf) |
+[Unix-like Operating Systems](https://abrasive-horn-91a.notion.site/Unix-like-Operating-Systems-Unixov-opera-n-syst-my-Unix-0f9d325a495c40e09619e48f075baba9) | ? weeks | ? hours/week | BI-ULI |
+[Technological Fundamentals of Computers](https://abrasive-horn-91a.notion.site/Technological-Fundamentals-of-Computers-Technologick-z-klady-po-ta-0eed01aa578241118de3c4d588d581c7) | ? weeks | ? hours/week | [BI-PKM](https://github.com/mikezigberman/fit-software-engineering/files/9424569/bi-pkm-textbook.pdf) & Physics |
+[SW Development Technologies](https://abrasive-horn-91a.notion.site/SW-Development-Technologies-Technologie-pro-v-voj-SW-c958639033d84268a615f1c6fe2e28cf) | ? weeks | ? hours/week | none |
 
 # Code of conduct
 
