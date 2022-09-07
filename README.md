@@ -47,7 +47,7 @@ The subject is carried out in cooperation between Faculty of Information Technol
 
 Courses | Duration | Effort | Prerequisites |
 :-- | :--: | :--: | :--: |
-[BI-ULI]() | 2 weeks | ? hours/week | none |
+[BI-ULI]() | 2 weeks | 3 hours/week | none |
 
 ### Introduction to mathematics (BI-PKM)
 
@@ -74,7 +74,7 @@ Within the course, students will recall the substance that is necessary for the 
 
 Courses | Duration | Effort | Prerequisites |
 :-- | :--: | :--: | :--: |
-[BI-PKM](https://github.com/mikezigberman/fit-software-engineering/files/9424569/bi-pkm-textbook.pdf)| 2 weeks | ? hours/week | none |
+[BI-PKM](https://github.com/mikezigberman/fit-software-engineering/files/9424569/bi-pkm-textbook.pdf)| 2 weeks | 4 hours/week | none |
 
 ## 1. semester
 
